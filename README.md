@@ -138,7 +138,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 ## Get Involved
 
 [![GitHub Stars](https://img.shields.io/github/stars/vivekjha1213/MicroKey.svg?style=social)](https://github.com/vivekjha1213/MicroKey)
-[![Discord](https://img.shields.io/discord/XXXXXX.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/microkey)
-[![Twitter Follow](https://img.shields.io/twitter/follow/MicroKeyProject.svg?style=social)](https://twitter.com/MicroKeyProject)
+[![Discord](https://img.shields.io/discord/XXXXXX.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/vivekjha1213)
+[![Twitter Follow](https://img.shields.io/twitter/follow/MicroKeyProject.svg?style=social)](https://twitter.com/vivekjha1213)
 
 Let's build something amazing together!
