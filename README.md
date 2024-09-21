@@ -1,12 +1,12 @@
 # MicroKey
 
-<img src="/api/placeholder/800/200" alt="MicroKey Banner" />
+![MicroKey Banner](/api/placeholder/800/200)
 
 MicroKey is an open-source, microservices-based application that integrates a Django backend with a Golang Gin service, providing a seamless and scalable architecture for authentication and API management.
 
 ## Microservices Architecture
 
-<img src="/api/placeholder/700/350" alt="Microservices Architecture Diagram" />
+![Microservices Architecture Diagram](/api/placeholder/700/350)
 
 MicroKey leverages a microservices architecture to ensure scalability, maintainability, and flexibility:
 
@@ -15,7 +15,7 @@ MicroKey leverages a microservices architecture to ensure scalability, maintaina
 
 ## Features
 
-<img src="/api/placeholder/600/300" alt="MicroKey Features" />
+![MicroKey Features](/api/placeholder/600/300)
 
 - **Django Backend**: Handles user authentication and serves REST APIs.
 - **Golang Gin Service**: Lightweight middleware for authentication.
@@ -26,7 +26,7 @@ MicroKey leverages a microservices architecture to ensure scalability, maintaina
 
 ## Technology Stack
 
-<img src="/api/placeholder/700/150" alt="Technology Stack" />
+![Technology Stack](/api/placeholder/700/150)
 
 - **Backend**: 
   - Django (Python)
@@ -144,7 +144,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Get Involved
 
-<img src="/api/placeholder/600/150" alt="Get Involved" />
+![Get Involved](/api/placeholder/600/150)
 
 We're always looking for new contributors and ideas! If you're interested in getting involved:
 
