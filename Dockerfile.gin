@@ -1,0 +1,20 @@
+# Use the official Golang image from the Docker Hub
+FROM golang:1.20-alpine
+
+# Set the working directory in the container
+WORKDIR /app
+
+# Copy the go.mod and go.sum files
+COPY gin-auth-api/go.mod gin-auth-api/go.sum ./
+
+# Download the dependencies
+RUN go mod download
+
+# Copy the source code
+COPY gin-auth-api/ ./
+
+# Expose the port Gin runs on
+EXPOSE 8080
+
+# Run the Gin application
+CMD ["go", "run", "main.go"]

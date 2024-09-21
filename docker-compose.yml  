@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  django:
+    build:
+      context: .
+      dockerfile: Dockerfile.django
+    ports:
+      - "8000:8000"  # Expose Django on port 8000
+    volumes:
+      - ./auth-service-django:/app
+    environment:
+      - DEBUG=1  # Set any environment variables needed
+
+  gin:
+    build:
+      context: .
+      dockerfile: Dockerfile.gin
+    ports:
+      - "9000:8080"  # Expose Gin on port 9000
+    volumes:
+      - ./gin-auth-api:/app
